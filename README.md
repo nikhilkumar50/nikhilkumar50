@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilkumar50&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilkumar50" /> </p>
 
-- 🔭 I’m currently working on **ParallelInbox**
+- 🔭 I’m currently working on **CodeX**
 
 - 🌱 I’m currently learning **BackEnd Development**
 
