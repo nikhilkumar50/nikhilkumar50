@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Nikhil Kumar</h1>
-<h3 align="center">A passionate Frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilkumar50&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilkumar50" /> </p>
 
-- 🔭 I’m currently working on **CodeX**
+- 🔭 I’m currently working on **Connective**
 
 - 🌱 I’m currently learning **BackEnd Development**
 
-- 💬 Ask me about **Frontend Technologies & FrameWork**
+- 💬 Ask me about **Full Stack Technologies & FrameWork**
 
 - 📫 How to reach me **nikhilkumarray5775@gmail.com**
 
