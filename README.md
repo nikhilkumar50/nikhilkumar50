@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as Software Developer at Xscale and working on <a href="https://xpricing.ai/">**Xpricing.ai**</a>
 
-- 🌱 I’m currently learning **BackEnd Development**
+- 🌱 I’m currently exploring **Java & Microservices**
 
 - 💬 Ask me about **Full Stack Technologies & FrameWork**
 
