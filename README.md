@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilkumar50&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilkumar50" /> </p>
 
-- 🔭 I’m currently working on **Connective**
+- 🔭 I’m currently working as Software Developer at Xscale and working on <a href="https://xpricing.ai/">**Xpricing.ai**</a>
 
 - 🌱 I’m currently learning **BackEnd Development**
 
